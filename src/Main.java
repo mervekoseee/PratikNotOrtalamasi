@@ -24,6 +24,7 @@ public class Main {
         System.out.println("Dönem Sonu Ortalamanız: " +ort);
         sonuc = (ort >= 60) ? "Geçti": "Kaldı";
         System.out.println("Dönem başarı durumunuz: " + sonuc);
+        System.out.println("Deneme Satırı " );
 
     }
 }
